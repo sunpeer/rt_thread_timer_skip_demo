@@ -1,0 +1,5 @@
+/* can't run */
+.PHONY: print
+
+print:
+	echo makefile test
