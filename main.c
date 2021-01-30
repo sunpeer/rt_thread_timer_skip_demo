@@ -161,5 +161,7 @@ int main(void)
         add_timer(timer_array_7[i]);
     }
 
+
+    /* this modify is down on main branch, may be confilect with branch_remote */
     printf_timer_list();
 }
