@@ -161,5 +161,8 @@ int main(void)
         add_timer(timer_array_7[i]);
     }
 
+
+    /* this modifiy is done on remote_branch branch */
+    
     printf_timer_list();
 }
